@@ -14,7 +14,7 @@ namespace Problem
             report.AddEntry(new CourseReportEntry { Name = "Flutter", Students = 1900, Rating = 4.5 });
 
             Console.WriteLine(report.ToString());
-            ServerSave servSave = new ServerSave();
+            FileSaver servSave = new FileSaver();
             servSave.SaveToFile(@"Reports", "WorkReport.txt",report);
         }
     }
@@ -26,7 +26,7 @@ namespace Problem
         public double Rating { get; set; }
     }
 
-    public class ServerSave
+    public class FileSaver
     {
         public void SaveToFile(string directoryPath, string fileName, CourseReport report)
         {
