@@ -12,3 +12,10 @@ D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Pr
 D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
 D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.exe
 D:\Projects\design-patterns-net\curso\solid\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.pdb
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.exe.config
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.exe
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\2 Exercices\Problem\Problem\Problem\bin\Debug\Problem.pdb
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.csprojAssemblyReference.cache
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.exe
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\2 Exercices\Problem\Problem\Problem\obj\Debug\Problem.pdb

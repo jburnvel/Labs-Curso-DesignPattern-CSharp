@@ -14,8 +14,8 @@ namespace Problem
             report.AddEntry(new CourseReportEntry { Name = "Flutter", Students = 1900, Rating = 4.5 });
 
             Console.WriteLine(report.ToString());
-
-            report.SaveToFile(@"Reports", "WorkReport.txt");
+            ServerSave servSave = new ServerSave();
+            servSave.SaveToFile(@"Reports", "WorkReport.txt",report);
         }
     }
 
@@ -24,6 +24,19 @@ namespace Problem
         public string Name { get; set; }
         public int Students { get; set; }
         public double Rating { get; set; }
+    }
+
+    public class ServerSave
+    {
+        public void SaveToFile(string directoryPath, string fileName, CourseReport report)
+        {
+            if (!Directory.Exists(directoryPath))
+            {
+                Directory.CreateDirectory(directoryPath);
+            }
+
+            File.WriteAllText(Path.Combine(directoryPath, fileName), report.ToString());
+        }
     }
 
     public class CourseReport
@@ -39,15 +52,7 @@ namespace Problem
 
         public void RemoveEntryAt(int index) => _entries.RemoveAt(index);
 
-        public void SaveToFile(string directoryPath, string fileName)
-        {
-            if (!Directory.Exists(directoryPath))
-            {
-                Directory.CreateDirectory(directoryPath);
-            }
-
-            File.WriteAllText(Path.Combine(directoryPath, fileName), ToString());
-        }
+       
         public override string ToString() =>
             string.Join(Environment.NewLine, _entries.Select(x => $"Curso: {x.Name}, Estudiantes: {x.Students}, Valoración: {x.Rating}"));
     }
