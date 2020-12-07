@@ -12,3 +12,10 @@ D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Deb
 D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
 D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Debug\First.exe
 D:\Projects\design-patterns-net\curso\solid\1-SRP\1- Content\First\First\obj\Debug\First.pdb
+C:\Users\Jorge\source\repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\1- Content\First\First\bin\Debug\First.exe.config
+C:\Users\Jorge\source\repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\1- Content\First\First\bin\Debug\First.exe
+C:\Users\Jorge\source\repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\1- Content\First\First\bin\Debug\First.pdb
+C:\Users\Jorge\source\repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\1- Content\First\First\obj\Debug\First.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\1- Content\First\First\obj\Debug\First.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\source\repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\1- Content\First\First\obj\Debug\First.exe
+C:\Users\Jorge\source\repos\jburnvel\Labs-Curso-DesignPattern-CSharp\1-SRP\1- Content\First\First\obj\Debug\First.pdb

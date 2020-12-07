@@ -1,12 +1,13 @@
 ﻿namespace Before
 {
-    public class Email
+    public class Email : IMessage
     {
         public string Subject { get; set; }
-        public string Content { get; set; }
-        public void SendEmail()
+        public string Content { get; set; } 
+
+        public void SendMessage()
         {
-            //Send email
+            throw new System.NotImplementedException();
         }
     }
 }

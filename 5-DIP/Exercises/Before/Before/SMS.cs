@@ -1,12 +1,14 @@
 ﻿namespace Before
 {
-    public class SMS
+    public class SMS : IMessage
     {
         public string PhoneNumber { get; set; }
         public string Message { get; set; }
-        public void SendSMS()
+
+        public void SendMessage()
         {
-            //Send sms
+            throw new System.NotImplementedException();
         }
+         
     }
 }

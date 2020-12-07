@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\5-DIP",
+    "\\5-DIP\\Content",
+    "\\5-DIP\\Content\\Before\\DIP",
+    "\\5-DIP\\Content\\Before\\DIP\\DIPLibrary",
+    "\\5-DIP\\Exercises",
+    "\\5-DIP\\Exercises\\After",
+    "\\5-DIP\\Exercises\\After\\After",
+    "\\5-DIP\\Exercises\\Before",
+    "\\5-DIP\\Exercises\\Before\\Before"
   ],
+  "SelectedNode": "\\5-DIP\\Exercises\\Before\\Before.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,0 +1,6 @@
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\Before\Before\obj\Debug\Before.csprojAssemblyReference.cache
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\Before\Before\obj\Debug\Before.csproj.CoreCompileInputs.cache
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\Before\Before\bin\Debug\Before.dll
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\Before\Before\bin\Debug\Before.pdb
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\Before\Before\obj\Debug\Before.dll
+C:\Users\Jorge\Source\Repos\jburnvel\Labs-Curso-DesignPattern-CSharp\5-DIP\Exercises\Before\Before\obj\Debug\Before.pdb

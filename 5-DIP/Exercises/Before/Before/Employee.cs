@@ -8,19 +8,18 @@ namespace Before
 {
     public class Employee
     {
-        private Email _email;
-        private SMS _sms;
-
-        public Employee(Email email, SMS sms)
+        private List<IMessage> _messages;
+        public Employee(List<IMessage> messages)
         {
-            _email = email;
-            _sms = sms;
+            _messages = messages;
         }
 
         public void Send()
         {
-            _email.SendEmail();
-            _sms.SendSMS();
+            foreach (var message in _messages)
+            {
+                message.SendMessage();
+            }
         }
 
     }

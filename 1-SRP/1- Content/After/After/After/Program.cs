@@ -17,7 +17,7 @@ namespace After
                 Patient = new Patient
                 {
                     Name = "Juan Ortiz",
-                    Email = "juanortizgmail.com"
+                    Email = "juanortiz@gmail.com"
                 },
                 Time = new DateTime(2019, 03, 08, 15, 20, 19)
             };

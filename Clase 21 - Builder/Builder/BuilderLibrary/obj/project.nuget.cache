@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Gl3dZ6fqMAIYtJmPNuV+XzKXrxbyIJUlIjNkL9Gsputr/7Ddgc4FScNN4a6h+Dr6aOFppk1YNcfcUMkRX5B9kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorge\\Source\\Repos\\jburnvel\\Labs-Curso-DesignPattern-CSharp\\Clase 21 - Builder\\Builder\\BuilderLibrary\\BuilderLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorge\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
